@@ -1,0 +1,11 @@
+Username- admin
+password- bhushan
+
+
+Database Used: Microsoft Access
+Database Settings:
+	DNS: Tution
+
+Note: put the contents of Assets folder in same folder as the exported jar.
+
+Needs jdk version 1.7 for Microsoft Access Database
